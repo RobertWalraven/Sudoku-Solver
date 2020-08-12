@@ -1,0 +1,23 @@
+F:\Users\Bob\AppData\Local\Temporary Projects\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.xml
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbprojResolveAssemblyReference.cache
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Resources.resources
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbproj.GenerateResource.Cache
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.xml
+C:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
+D:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+D:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+D:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+D:\Development\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.xml
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbprojAssemblyReference.cache
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Resources.resources
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbproj.GenerateResource.cache
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.xml
+D:\Development\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
